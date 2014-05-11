@@ -2,6 +2,7 @@
  * @param nth the nth-acci sequence - ex: tribonacci
  * @param midx the mth index
  * @return the mth index value of the acci-sequence
+ * @author Sugi
  */
 def nacci(nth, midx) {
     def seed = [1, 1]
